@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/NetBeansProjects.iml" filepath="$PROJECT_DIR$/NetBeansProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CyPatScoreUpdatedBot.iml" filepath="$PROJECT_DIR$/CyPatScoreUpdatedBot.iml" />
     </modules>
   </component>
 </project>
